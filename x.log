@@ -1,0 +1,5 @@
+Aug 11 10:06:11 newfish kernel: SEQCTL[0x10] SEQ_FLAGS[0x40] SSTAT0[0x0] SSTAT1[0x0]
+Aug 12 10:06:11 newfish kernel: SSTAT2[0x0] SSTAT3[0x0] SIMODE0[0x8] SIMODE1[0xac]
+Aug 13 10:06:11 newfish kernel: SXFRCTL0[0x88] DFCNTRL[0x0] DFSTATUS[0x89]
+Aug 13 10:06:11 newfish kernel: STACK: 0xe1 0xe1 0x163 0x178
+Aug 15 10:06:11 newfish kernel: SCB count = 12
